@@ -3,7 +3,7 @@ NikolayVerechshaginCV
 Education:
 2021-ongoing - 	ITMO University, “Information system Security”, bachelor degree, Saint Petersburg
 
-  ADDITIONAL COURSES: 
+    ADDITIONAL COURSES: 
 (beyond the bachelor degree) 2021-2022    «Udemy - Spring for beginners» completed course
 2021-2022	  Stepik - «Java. Basic course» completed course
 2021-2022	  «Java: Spring Boot 2.x + HATEOAS» completed course
@@ -21,7 +21,7 @@ Project:
 
 
 
-Professional skills:
+Professional skills:                                   
         EXPERIENCE. PROGRAMMING LANGUAGES - Java, Python, C++, C, NASM, HTML, CSS 
         EXPERIENCE. JAVA FRAMEWORK - Basic skills of Spring and Spring Boot(CORE, MVC, JPA, JDBC, Hibernate, Hibernate Validation)
                              Basic skills of RxJava
